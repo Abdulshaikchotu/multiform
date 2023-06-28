@@ -1,0 +1,17 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+fieldset:not(:first-of-type) {
+    display: none;
+}
+
+button {
+    margin-top: 10px;
+}
+
+input {
+    margin-bottom: 10px;
+}
